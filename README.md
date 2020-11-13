@@ -12,3 +12,11 @@ I am a data scientist who enjoys working on connecting the worlds of data scienc
 <br>
 
 If you would like to contact me just write me an email or use the contact form of my website 😀
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
