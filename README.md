@@ -17,6 +17,6 @@ If you would like to contact me just write me an email or use the contact form o
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Data Masterys GitHub Stats" src="https://github-readme-stats.data-mastery.vercel.app/api?username=data-mastery&show_icons=true&hide_border=true" />
 
 </details>
